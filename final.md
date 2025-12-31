@@ -66,8 +66,9 @@
 
 ## 習題9
 
-[hw9]()
-[AI對話]()
+[hw9](https://github.com/yunuun/_alg/tree/main/hw9)
+
+[AI對話](https://gemini.google.com/share/e18c51d95169)
 
 使用gemini寫出一個最小編輯距離程式。
 
