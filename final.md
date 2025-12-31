@@ -42,14 +42,9 @@
 
 ## 習題6
 
-[爬山演算法](https://github.com/yunuun/_co/blob/master/03/b/RAM512.hdl)
+[hw6](https://github.com/yunuun/_alg/tree/main/hw6)
 
-[貪婪法](https://github.com/yunuun/_co/blob/master/03/b/RAM4K.hdl)
-
-[改良法](https://github.com/yunuun/_co/blob/master/03/b/RAM16K.hdl)
-
-[梯度下降法](https://github.com/yunuun/_co/blob/master/03/a/PC.hdl)
-使用老師提供的程式。
+使用gemini了解不同演算法如何解決線性回歸問題。
 
 ---
 
