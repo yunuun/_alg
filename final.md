@@ -50,15 +50,15 @@
 
 ## 習題7
 
-[狼，羊，甘藍菜過河問題]()
+[狼，羊，甘藍菜過河問題](https://github.com/yunuun/_alg/tree/main/hw7)
 
-使用 ChatGPT 進行 debug。
+參考老師提供的程式，更改成python，使用gemini debug。
 
 ---
 
 ## 習題8
 
-[hw8]()
+[hw8](https://github.com/yunuun/_alg/tree/main/hw8)
 
 使用gemini了解C(n,k)的查表版和動態規劃版之異同。
 
