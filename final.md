@@ -50,7 +50,7 @@
 
 ## 習題7
 
-[狼，羊，甘藍菜過河問題](https://github.com/yunuun/_co/blob/master/04/mult/mult.asm)
+[狼，羊，甘藍菜過河問題]()
 
 使用 ChatGPT 進行 debug。
 
