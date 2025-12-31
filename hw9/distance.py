@@ -40,8 +40,8 @@ def min_edit_distance(str1, str2):
 
 # --- 測試範例 ---
 if __name__ == "__main__":
-    s1 = "horse"
-    s2 = "ros"
+    s1 = "distance"
+    s2 = "assistant"
     
     dist = min_edit_distance(s1, s2)
     print(f"'{s1}' 轉換成 '{s2}' 的最小編輯距離為: {dist}")
