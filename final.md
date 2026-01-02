@@ -70,7 +70,7 @@
 
 [AI對話](https://gemini.google.com/share/e18c51d95169)
 
-使用gemini寫出一個最小編輯距離程式。
+使用gemini寫出一個最小編輯距離程式並解釋如何運作。
 
 ---
 
@@ -78,7 +78,7 @@
 
 [hw10]()
 
-未完成。
+
 
 ---
 
@@ -94,12 +94,12 @@
 
 [hw12]()
 
-未完成。
+
 
 ---
 
 ## 期中作業
 
-[期中報告]()
+[期中報告](https://www.canva.com/design/DAG9KbTGG0w/aNYnDi-w7dbST8_A7FxtRQ/edit?utm_content=DAG9KbTGG0w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-未完成。
+參考資料放在簡報最後。
