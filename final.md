@@ -76,15 +76,17 @@
 
 ## 習題10
 
-[hw10]()
+[hw10](https://github.com/yunuun/_alg/tree/main/hw10)
 
+[AI對話](https://gemini.google.com/share/be14308d9b5b)
 
+使用gemini寫一個程式可以做 n 維函數的積分 (n 是參數)。
 
 ---
 
 ## 習題11
 
-[hw11]()
+[hw11](https://gemini.google.com/share/f802843ca362)
 
 使用gemini把計算理論的故事講一遍。
 
@@ -92,9 +94,7 @@
 
 ## 習題12
 
-[hw12]()
-
-
+未完成。
 
 ---
 
